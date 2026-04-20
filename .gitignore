@@ -1,0 +1,12 @@
+__pycache__/
+build/
+dist/
+*.spec
+input/
+output/
+.vscode/
+.idea/
+*.pptx
+*.docx
+!weekly_*.pptx
+!design.md
